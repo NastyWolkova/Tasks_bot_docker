@@ -1,0 +1,5 @@
+venv/
+*cashe*
+.vscode/
+.idea/
+.env
