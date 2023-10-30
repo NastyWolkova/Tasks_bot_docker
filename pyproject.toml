@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+aiogram = "3.0b7"
+environs = "^9.5.0"
+surrogates = "^1.0.2"
 
 
 [build-system]
